@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GimalGoSa", "GimalGoSa.csproj", "{27AEF2E6-CA60-58F8-8571-500DEEDA9F73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GimalGoSa.Plugins", "GimalGoSa.Plugins.csproj", "{4C7E8B59-0BA6-8251-54AA-E955FD7662B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GimalGoSa.Editor.Plugins", "GimalGoSa.Editor.Plugins.csproj", "{D969B364-1D9A-6264-6796-8D0C28BA0DEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GimalGoSa.Editor", "GimalGoSa.Editor.csproj", "{E155D27A-1E7A-C538-62E6-D91B29E0169D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27AEF2E6-CA60-58F8-8571-500DEEDA9F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27AEF2E6-CA60-58F8-8571-500DEEDA9F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27AEF2E6-CA60-58F8-8571-500DEEDA9F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27AEF2E6-CA60-58F8-8571-500DEEDA9F73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C7E8B59-0BA6-8251-54AA-E955FD7662B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7E8B59-0BA6-8251-54AA-E955FD7662B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7E8B59-0BA6-8251-54AA-E955FD7662B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7E8B59-0BA6-8251-54AA-E955FD7662B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D969B364-1D9A-6264-6796-8D0C28BA0DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D969B364-1D9A-6264-6796-8D0C28BA0DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D969B364-1D9A-6264-6796-8D0C28BA0DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D969B364-1D9A-6264-6796-8D0C28BA0DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E155D27A-1E7A-C538-62E6-D91B29E0169D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E155D27A-1E7A-C538-62E6-D91B29E0169D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E155D27A-1E7A-C538-62E6-D91B29E0169D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E155D27A-1E7A-C538-62E6-D91B29E0169D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
