@@ -4,25 +4,26 @@ This game is Fps escape game. player use gun and time slow ability.
 ## Scene
 __main menu__
 
-![maion](https://user-images.githubusercontent.com/37068148/47288437-16428580-d631-11e8-9c86-8e969371c979.png){: width="200" height="200"}
+<center><img src="https://user-images.githubusercontent.com/37068148/47288437-16428580-d631-11e8-9c86-8e969371c979.png" width="300" height="300"></center>
 
 __stage 1__
 
 enemy type - robot / use take gun script and 
 
-![1](https://user-images.githubusercontent.com/37068148/47288431-104ca480-d631-11e8-8f98-0f3ebe6b1e85.png){: width="200" height="200"}
+<center><img src="https://user-images.githubusercontent.com/37068148/47288431-104ca480-d631-11e8-8f98-0f3ebe6b1e85.png" width="300" height="300"></center>
+
 
 __stage 2__
 
 enemy type - zombie , robot / use navagent that can chase player.
 
-![2](https://user-images.githubusercontent.com/37068148/47288424-09259680-d631-11e8-83d3-ffeb66c07bca.png){: width="200" height="200"}
+<center><img src="https://user-images.githubusercontent.com/37068148/47288424-09259680-d631-11e8-83d3-ffeb66c07bca.png" width="300" height="300"></center>
 
 __end scene__
 
 use shake camera script and change camera position script
 
-![end](https://user-images.githubusercontent.com/37068148/47288439-19d60c80-d631-11e8-8969-a72b16d80ceb.png){: width="200" height="200"}
+<center><img src="https://user-images.githubusercontent.com/37068148/47288439-19d60c80-d631-11e8-8969-a72b16d80ceb.png" width="300" height="300"></center>
 
 ## Important code(script)
 __slowMotion script__
