@@ -24,13 +24,18 @@ use shake camera script and change camera position script
 ## Important code(script)
 __slowMotion script__
 
-## how to play
+## Play Game
 
-move - W A S D
-shoot - left mouse
-ability - right mouse
+### how to play
+move - W A S D /
+shoot - left mouse /
+ability - right mouse /
 jump - space
 
+### Download link
+syntax: [Download Game](https://drive.google.com/open?id=1poyoV48MA4aQPrW9cr7MWStEPFnwfU8q)
+
+### Goal
 1. Go ammor room and take weapon
 2. Kill enemy
 3. Escape from Space Shuttle
