@@ -1,6 +1,8 @@
 # Escape-SpaceShip
 This game is Fps escape game. player use gun and time slow ability.
 
+------------  
+
 ## Scene
 __main menu__
 
@@ -25,6 +27,7 @@ use shake camera script and change camera position script
 
 <center><img src="https://user-images.githubusercontent.com/37068148/47288439-19d60c80-d631-11e8-8969-a72b16d80ceb.png" width="300" height="300"></center>
 
+------------  
 ## Important code(script)
 __slowMotion script__
 
@@ -60,8 +63,9 @@ public class slowMotion : MonoBehaviour {
 		}
 	}
 }
+```  
 
-```
+  ------------
 ## Play Game
 
 ### how to play
